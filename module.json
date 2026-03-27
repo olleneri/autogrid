@@ -1,0 +1,41 @@
+{
+  "id": "autogrid",
+  "title": "AutoGrid and Background rotator",
+  "version": "1.0.0",
+  "url": "https://github.com/olleneri/autogrid",
+  "manifest": "https://github.com/olleneri/autogrid/blob/main/module.json",
+  "download": "https://github.com/olleneri/autogrid/releases/download/1.0.0/module.zip",
+  "description": "<p>Auto grid detection and background toggling</p>",
+  "authors": [
+    {
+    "name": "Kraivo",
+            "email": "ikraivo@gmail.com",
+            "url": "https://boosty.to/kraivo",
+			"flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "esmodules": [
+    "scripts/autogrid.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json",
+      "flags": {}
+    }
+  ]
+}
