@@ -1,0 +1,52 @@
+{
+    "autogrid": {
+        "Settings": {
+            "supportMessage": {
+                "Name": "Support the Developer",
+                "Hint": "Click to select and copy the link"
+            },
+            "enableToggleBackground": {
+                "Name": "Enable Background Toggle",
+                "Hint": "Enables hotkey B to switch between Grid / No Grid backgrounds"
+            },
+            "lightDarkExpressions": {
+                "Name": "Light/Dark Expressions",
+                "Hint": "Define pairs like \"light/dark; day/night\". Press N to toggle between them"
+            },
+            "hqLqExpressions": {
+                "Name": "HQ/LQ Expressions",
+                "Hint": "Define pairs like \"LQ/HQ\". Press , to toggle between them"
+            },
+            "customTogglePairs": {
+                "Name": "Custom Toggle Groups",
+                "Hint": "Define groups like \"roof/no roof; phase1/phase2/phase3\". Use . to cycle forward and / to cycle backward"
+            }
+        },
+        "keybindings": {
+            "baseTile": {
+                "Name": "Set Base Tile",
+                "Hint": "Press M, then click two points to define a grid cell. Right-click to cancel"
+            },
+            "toggleBackground": {
+                "Name": "Toggle Grid Background",
+                "Hint": "Press B to switch between Grid and No Grid versions"
+            },
+            "toggleLightDark": {
+                "Name": "Toggle Light/Dark",
+                "Hint": "Press N to cycle through light/dark variants"
+            },
+            "toggleHQ": {
+                "Name": "Toggle HQ/LQ",
+                "Hint": "Press , to cycle through quality variants"
+            },
+            "toggleCustom": {
+                "Name": "Toggle Custom Forward",
+                "Hint": "Press . to cycle forward through custom variants"
+            },
+            "toggleCustomReverse": {
+                "Name": "Toggle Custom Backward",
+                "Hint": "Press / to cycle backward through custom variants"
+            }
+        }
+    }
+}
