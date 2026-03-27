@@ -59,6 +59,9 @@ Open module settings.
 ### Step 3: Save
 Click **"Save"** at the bottom of the window.
 
+### Step 4: Configurating grid
+Press M and draw a square. It might not work from the first try.
+
 ---
 
 ## 🤝 Support and Contributions
