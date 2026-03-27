@@ -13,12 +13,12 @@ Custom Target Icon allows multiple target manipulations:
 - **Change background** (uses keywords from the background file name)
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ3dTV6dHB5ODg4a2tnN3dsamh1ZmluNngzdzhsZnBwdnV3dXR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c7Y0vbLp9KDKyxZ6ty/giphy.gif" width="800" alt="Example Demo 1 ">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjViMmp1MmZpbTBlaHU5bXNibHcxOGdnNGxjNGxpb2MwdTFtNmw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c7Y0vbLp9KDKyxZ6ty/giphy.gif" width="800" alt="Example Demo 1 ">
 </p>
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVvNXprd2h0ZXdzbWo3MjV1ZTN6YnU0aXlveTZvdjg4a3JrMTZnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4iFj00IJk5zaFpO9v/giphy.gif" width="800" alt="Example Demo 2">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU1eGJuZWdjazhrMTl4eWh6eDVrbTVld2hpb3I2NG5tcHR4MW54biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rPjWnl96580A4282UZ/giphy.gif" width="800" alt="Example Demo 2">
 </p>
 
 
