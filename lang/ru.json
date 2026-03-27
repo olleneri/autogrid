@@ -1,0 +1,52 @@
+{
+    "autogrid": {
+        "Settings": {
+            "supportMessage": {
+                "Name": "Поддержать разработчика",
+                "Hint": "Нажмите, чтобы выбрать и скопировать ссылку"
+            },
+            "enableToggleBackground": {
+                "Name": "Переключение фона (B)",
+                "Hint": "Включает горячую клавишу B для переключения Grid / No Grid"
+            },
+            "lightDarkExpressions": {
+                "Name": "Пары Light/Dark",
+                "Hint": "Задайте пары вида \"light/dark; day/night\". Нажмите N для переключения"
+            },
+            "hqLqExpressions": {
+                "Name": "Пары HQ/LQ",
+                "Hint": "Задайте пары вида \"LQ/HQ\". Нажмите , для переключения"
+            },
+            "customTogglePairs": {
+                "Name": "Пользовательские группы",
+                "Hint": "Задайте группы вида \"roof/no roof; phase1/phase2/phase3\". Клавиша . — вперёд, / — назад"
+            }
+        },
+        "keybindings": {
+            "baseTile": {
+                "Name": "Задать базовый квадрат",
+                "Hint": "Нажмите M, затем выберите две точки. ПКМ — отмена"
+            },
+            "toggleBackground": {
+                "Name": "Переключить фон Grid/No Grid",
+                "Hint": "Нажмите B для переключения вариантов фона"
+            },
+            "toggleLightDark": {
+                "Name": "Переключить Light/Dark",
+                "Hint": "Нажмите N для переключения вариантов освещения"
+            },
+            "toggleHQ": {
+                "Name": "Переключить HQ/LQ",
+                "Hint": "Нажмите , для переключения качества"
+            },
+            "toggleCustom": {
+                "Name": "Переключить вперёд",
+                "Hint": "Нажмите . для перехода к следующему варианту"
+            },
+            "toggleCustomReverse": {
+                "Name": "Переключить назад",
+                "Hint": "Нажмите / для перехода к предыдущему варианту"
+            }
+        }
+    }
+}
