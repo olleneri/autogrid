@@ -148,6 +148,32 @@ function parseGridCountFromFilename(filename) {
     return match ? { x: +match[1], y: +match[2] } : null;
 }
 
+// ================= RESET IMAGE SCALE =================
+async function setBackgroundWithReset(newPath) {
+    try {
+        // Загружаем текстуру
+        const tex = await loadTexture(newPath);
+
+        const w = tex.width;
+        const h = tex.height;
+
+        // Обновляем всё одним апдейтом (это важно)
+        await canvas.scene.update({
+            "background.src": encodeURI(newPath),
+            "width": w,
+            "height": h
+        });
+
+        canvas.draw();
+
+        // Грид
+        if (baseTile) await applyGridFromFilename(canvas.scene);
+
+    } catch (e) {
+        console.error("AutoGrid error:", e);
+    }
+}
+
 // ================= DRAW TILE =================
 function startBaseTileDraw() {
     if (!canvas.scene) return;
@@ -231,8 +257,7 @@ async function toggleBackground() {
 
     if (!(await fileExists(newPath))) return;
 
-    await canvas.scene.update({ "background.src": encodeURI(newPath) });
-    if (baseTile) await applyGridFromFilename(canvas.scene);
+    await setBackgroundWithReset(newPath);
 }
 
 async function toggleLightDark() {
@@ -267,8 +292,7 @@ async function toggleExpression(settingKey, forward = true) {
 
             if (!(await fileExists(newPath))) return;
 
-            await canvas.scene.update({ "background.src": encodeURI(newPath) });
-            if (baseTile) await applyGridFromFilename(canvas.scene);
+            await setBackgroundWithReset(newPath);
             return;
         }
     }
