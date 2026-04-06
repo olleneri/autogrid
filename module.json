@@ -1,7 +1,7 @@
 {
   "id": "autogrid",
   "title": "AutoGrid and Background rotator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/olleneri/autogrid",
   "manifest": "https://github.com/olleneri/autogrid/blob/main/module.json",
   "download": "https://github.com/olleneri/autogrid/releases/download/1.0.0/module.zip",
