@@ -15,7 +15,7 @@ Custom Target Icon allows multiple target manipulations:
 Don't forget to press N to update background!
 
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjViMmp1MmZpbTBlaHU5bXNibHcxOGdnNGxjNGxpb2MwdTFtNmw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c7Y0vbLp9KDKyxZ6ty/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbGxpa3E3eGgwN2EwMG9hYnA5Z3lubnU5eTRkNXJqdGduaDZnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZeKczyPzqj9HHUMtd/giphy.gif)" width="800" alt="Example Demo 1 ">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbGxpa3E3eGgwN2EwMG9hYnA5Z3lubnU5eTRkNXJqdGduaDZnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZeKczyPzqj9HHUMtd/giphy.gif" width="800" alt="Example Demo 1 ">
 </p>
 
 <p align="center">
