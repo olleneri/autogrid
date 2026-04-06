@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "url": "https://github.com/olleneri/autogrid",
   "manifest": "https://github.com/olleneri/autogrid/blob/main/module.json",
-  "download": "https://github.com/olleneri/autogrid/releases/download/1.0.0/module.zip",
+  "download": "https://github.com/olleneri/autogrid/releases/download/1.0.1/module.zip",
   "description": "<p>Auto grid detection and background toggling</p>",
   "authors": [
     {
